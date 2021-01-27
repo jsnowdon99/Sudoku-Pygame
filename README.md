@@ -1,5 +1,5 @@
 # Sudoku-Pygame
-
+![Demo](https://github.com/jsnowdon99/Sudoku-Pygame/blob/main/images/sud.PNG?raw=true)
 Built utilizing the Pygame module, this program is loaded with an interactive GUI with a 9x9 board for the game, Sudoku. 
 
 If you have never played Sudoku the rules are that each of the nine squares has to contain all the numbers 1-9 within its squares. Each number can only appear once in a row, column or box (3x3).
